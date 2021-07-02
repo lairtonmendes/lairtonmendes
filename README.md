@@ -12,9 +12,6 @@ Lover of Technology and Coding 💓
 
 
 ## Languages and Tools:
-[![Lairton Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=lairton)](https://github.com/lairton/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lairton&layout=compact)](https://github.com/lairton/github-readme-stats)
-
 
 <code><img height="20" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></code>
