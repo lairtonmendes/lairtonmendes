@@ -6,9 +6,9 @@ Lover of Technology and Coding 💓
  
 ## About me 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> I'm currently studying Data Science, Machine learn, and Project Management.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> I hate **wifi connection 🌐** with all my heart, I only use it on my cell phone, why is the way (I think).
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> Fan of Star wars(4,5,6,1,2,3), The Lord of The Rings and Harry Potter. Who doesn't?
+-  I'm currently studying Data Science, Machine learn, and Project Management.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px" /> I hate **wifi connection 🌐** with all my heart, I only use it on my cell phone, why is the way (I think).
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> Fan of Star wars(4,5,6,1,2,3), The Lord of The Rings and Harry Potter. Who doesn't?
 
 
 ## Languages and Tools:
